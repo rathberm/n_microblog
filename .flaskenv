@@ -1,1 +1,1 @@
-FLASK_APP=microblog.py
+set FLASK_APP=microblog.py
